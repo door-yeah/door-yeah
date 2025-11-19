@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💻 My Algorithmic Status (Baekjoon)
+
+[![Solved.ac Tier](https://solved.ac/badge/tier/dptjd0216.svg)](https://solved.ac/profile/dptjd0216)
