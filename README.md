@@ -16,20 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- 1. Solved.ac 티어 배지 (티어 배지는 크기 조정이 어렵지만, 링크는 유지) -->
+<!-- dptjd0216 ID로 모든 배지 코드를 정리했습니다. -->
 
-<div align="center">
-
-</div>
-
-<!-- 2. Mazassumnida (문제 수, 랭킹 표시) - 중앙 정렬을 위해 <img> 태그에 align="center" 사용 -->
-
-<a href="https://www.google.com/search?q=https://solved.ac/profile/dptjd0216">
-<img align="center" width="100%" src="https://www.google.com/search?q=http://mazassumnida.wtf/api/v2/generate_badge%3Fboj%3Ddptjd0216" alt="Mazassumnida BOJ Status" />
+<!-- 1. solved.ac 티어 배지 (가장 안정적인 형태) -->
+[![Solved.ac Tier](https://solved.ac/badge/tier/dptjd0216.svg)](https://solved.ac/profile/dptjd0216)
+ 
+<!-- 2. Mazassumnida (문제 수, 랭킹 표시) -->
+<a href="https://solved.ac/profile/dptjd0216">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dptjd0216" alt="Mazassumnida BOJ Status" />
 </a>
 
 <!-- 3. Mazandi (클래스 표시) -->
-
-<a href="https://www.google.com/search?q=https://solved.ac/profile/dptjd0216">
-<img align="center" width="100%" src="https://www.google.com/search?q=http://mazandi.herokuapp.com/api%3Fhandle%3Ddptjd0216%26theme%3Dwarm" alt="Mazandi Class Badge" />
+<a href="https://solved.ac/profile/dptjd0216">
+    <img src="http://mazandi.herokuapp.com/api?handle=dptjd0216&theme=warm" alt="Mazandi Class Badge"/>
 </a>
+
+<br>
