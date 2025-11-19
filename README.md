@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <!-- 1. Solved.ac 티어 배지 (가장 안정적인 공식 티어 표시) -->
-    <!-- 이미지 클릭 시 solved.ac 프로필로 이동합니다. -->
-    [![Solved.ac Tier](https://solved.ac/badge/tier/dptjd0216.svg)](https://solved.ac/profile/dptjd0216)
-    
-    <!-- 2. Mazassumnida (풀이 문제 수, 랭킹 표시) - 클릭 링크 포함 -->
-    <a href="https://solved.ac/profile/dptjd0216">
-        <img height=150 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dptjd0216" alt="Mazassumnida BOJ Status" />
-    </a>
+<!-- dptjd0216 ID로 모든 배지 코드를 정리했습니다. -->
 
-    <!-- 3. Mazandi (클래스 표시) - 클릭 링크 포함 -->
-    <a href="https://solved.ac/profile/dptjd0216">
-        <img height=150 width=400 align="center" src="http://mazandi.herokuapp.com/api?handle=dptjd0216&theme=warm" alt="Mazandi Class Badge" />
-    </a>
-  </div>
+<!-- 1. solved.ac 티어 배지 (가장 안정적인 형태) -->
+[![Solved.ac Tier](https://solved.ac/badge/tier/dptjd0216.svg)](https://solved.ac/profile/dptjd0216)
+ 
+<!-- 2. Mazassumnida (문제 수, 랭킹 표시) -->
+<a href="https://solved.ac/profile/dptjd0216">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dptjd0216" alt="Mazassumnida BOJ Status" />
+</a>
+
+<!-- 3. Mazandi (클래스 표시) -->
+<a href="https://solved.ac/profile/dptjd0216">
+    <img src="http://mazandi.herokuapp.com/api?handle=dptjd0216&theme=warm" alt="Mazandi Class Badge"/>
+</a>
+
+<br>
