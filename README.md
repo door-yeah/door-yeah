@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 
 
 
-<!-- 2. Mazassumnida (문제 수, 랭킹 표시) -->
-<a href="https://solved.ac/profile/dptjd0216">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dptjd0216" alt="Mazassumnida BOJ Status" />
-</a>
-
-<!-- 3. Mazandi (클래스 표시) -->
-<a href="https://solved.ac/profile/dptjd0216">
-    <img src="http://mazandi.herokuapp.com/api?handle=dptjd0216&theme=warm" alt="Mazandi Class Badge"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=door-yeah&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/door-yeah"
+  width="600"
+  height="300"
+/>
 </a>
 
 <br>
