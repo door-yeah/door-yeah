@@ -16,8 +16,9 @@
 `Spring Boot` `Spring Security` `JPA` `Flyway` `MySQL` `Docker`
 
 **🚨 [낙상 감지](https://github.com/door-yeah/Cherrishbomb_BE)**<br>
-낙상 상황을 감지해 보호자에게 알리는 서비스<br>
-`Spring Boot` `Docker`
+엣지 디바이스가 감지한 낙상 이벤트를 받아 기관·보호자에게 보여주는 모니터링 서비스<br>
+└ 백엔드 담당: 낙상 데이터 수신·조회 API, 기관 도메인<br>
+`Spring Boot` `MySQL` `OAuth 2.0` `JWT` `Docker`
 
 ### My Farm
 
