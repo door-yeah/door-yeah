@@ -1,6 +1,6 @@
 ## Hi, I'm Door-yeah 👋
 
-경북대학교에서 개발을 공부하고 있습니다.
+경북대학교에서 공부하며 **Spring Boot 백엔드**를 중심으로 서비스를 만들고 있습니다.
 
 ### Tech Stack
 
@@ -8,6 +8,16 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-eeeeee?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![Python](https://img.shields.io/badge/Python-eeeeee?style=flat-square&logo=python&logoColor=3776AB)
 ![Figma](https://img.shields.io/badge/Figma-eeeeee?style=flat-square&logo=figma&logoColor=F24E1E)
+
+### Projects
+
+**🎵 [Musing](https://github.com/twowordoneword/oneword_BE)**<br>
+기분·날씨·계절을 감정 좌표로 바꿔 "오늘의 곡"을 추천하고, 곡과 함께 하루를 기록하는 음악 일기 앱<br>
+`Spring Boot` `Spring Security` `JPA` `Flyway` `MySQL` `Docker`
+
+**🚨 [낙상 감지](https://github.com/door-yeah/Cherrishbomb_BE)**<br>
+낙상 상황을 감지해 보호자에게 알리는 서비스<br>
+`Spring Boot` `Docker`
 
 ### My Farm
 
