@@ -15,9 +15,10 @@
 기분·날씨·계절을 감정 좌표로 바꿔 "오늘의 곡"을 추천하고, 곡과 함께 하루를 기록하는 음악 일기 앱<br>
 `Spring Boot` `Spring Security` `JPA` `Flyway` `MySQL` `Docker`
 
-**🚨 [낙상 감지](https://github.com/door-yeah/Cherrishbomb_BE)**<br>
-낙상 상황을 감지해 보호자에게 알리는 서비스<br>
-`Spring Boot` `Docker`
+**🚨 [낙상 감지](https://github.com/cherrishbombti/Cherrycherry_BE)**<br>
+라즈베리파이가 감지한 낙상 이벤트를 받아 보호자 앱·기관 웹에 보여주고 FCM으로 즉시 알리는 모니터링 서비스<br>
+└ 백엔드: 기기 데이터 수신, 하트비트 기반 단절 감지, 푸시 알림, 인증, EC2 자동 배포<br>
+`Spring Boot` `Spring Security` `JPA` `MariaDB` `FCM` `AWS EC2` `GitHub Actions`
 
 ### My Farm
 
